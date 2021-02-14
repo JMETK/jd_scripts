@@ -3,6 +3,7 @@
     "description": "这是收集各个圈x脚本作者的task库，感谢各位大佬的辛勤付出",
     "task": [
 "10 8-22/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/caiyun.png, enabled=false",
+"* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=会话切换, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png, enabled=false",
 "5 5 * * * https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=泡泡大作战, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_paopao.png, enabled=false",
 "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=false",
 "0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=京喜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jingxi.png, enabled=false",
